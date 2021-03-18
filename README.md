@@ -6,7 +6,7 @@ GitHub brukernavn: tobiasfremming
 
 GitHub repo URL: https://github.com/DATA1700/oblig-2-tobiasfremming
 
-URL til Heroku app: 
+URL til Heroku app: https://oblig2tobiasfremming.herokuapp.com/
 
 Fullt navn: Tobias Fremming
 
